@@ -204,6 +204,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\File.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -250,6 +251,11 @@
     <Content Include="Views\Movies\Edit.cshtml" />
     <Content Include="Views\Movies\Index.cshtml" />
     <Content Include="Views\HelloWorld\Index.cshtml" />
+    <Content Include="Views\Movies1\Create.cshtml" />
+    <Content Include="Views\Movies1\Delete.cshtml" />
+    <Content Include="Views\Movies1\Details.cshtml" />
+    <Content Include="Views\Movies1\Edit.cshtml" />
+    <Content Include="Views\Movies1\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -56,3 +56,4 @@ C:\Users\kghelani\Documents\Projects\MoviesSample\MvcMovie\obj\Debug\MvcMovie.Mi
 C:\Users\kghelani\Documents\Projects\MoviesSample\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
 C:\Users\kghelani\Documents\Projects\MoviesSample\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\kghelani\Documents\Projects\MoviesSample\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\kghelani\Documents\Projects\MoviesSample\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
